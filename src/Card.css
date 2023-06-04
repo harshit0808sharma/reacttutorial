@@ -65,7 +65,13 @@ button:hover{
     color:black;
     cursor: pointer;
 }
-
+@media(max-width:768px){
+    .card {
+        float:none;
+        margin:5%;
+        width:90%;
+    }
+}
 
 
 

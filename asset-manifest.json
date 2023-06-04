@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reacttutorial/static/css/main.31a99176.css",
+    "main.css": "/reacttutorial/static/css/main.b6a4dc9e.css",
     "main.js": "/reacttutorial/static/js/main.7ef7d052.js",
     "static/media/Avengers-logo.png": "/reacttutorial/static/media/Avengers-logo.848d0f1de6758835edb9.png",
     "static/media/IronMan3.jpg": "/reacttutorial/static/media/IronMan3.6651a4e7e85c017e405c.jpg",
@@ -9,11 +9,11 @@
     "static/media/Avengers-age-of-ultron.jpg": "/reacttutorial/static/media/Avengers-age-of-ultron.b250cb9ec027a5db52c9.jpg",
     "static/media/Avengers-endgame.jpg": "/reacttutorial/static/media/Avengers-endgame.1451727de0b38f9a0a54.jpg",
     "index.html": "/reacttutorial/index.html",
-    "main.31a99176.css.map": "/reacttutorial/static/css/main.31a99176.css.map",
+    "main.b6a4dc9e.css.map": "/reacttutorial/static/css/main.b6a4dc9e.css.map",
     "main.7ef7d052.js.map": "/reacttutorial/static/js/main.7ef7d052.js.map"
   },
   "entrypoints": [
-    "static/css/main.31a99176.css",
+    "static/css/main.b6a4dc9e.css",
     "static/js/main.7ef7d052.js"
   ]
 }
